@@ -1,4 +1,8 @@
 *.class
+.idea/
+*.png
+*.json
+*.gv
 
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
